@@ -120,7 +120,7 @@ var demo;
         _super.call(this);
         this.CANVAS_W = 160;
         this.CANVAS_H = 40;
-        this.WORD_LIST = ["増田龍備", "渡邉泰貴", "八木智秋","廣河拓実","三浦和音"];
+        this.WORD_LIST = ["Azure", "AWS", "Taiki","Watanabe"];
         this._matrixLength = 8;
         this._particleList = [];
         this._wordIndex = 0;
