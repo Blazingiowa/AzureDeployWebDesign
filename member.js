@@ -120,7 +120,7 @@ var demo;
         _super.call(this);
         this.CANVAS_W = 160;
         this.CANVAS_H = 40;
-        this.WORD_LIST = ["Taiki", "Watanabe", "Azure","WebApp"];
+        this.WORD_LIST = ["AWSで良くない？", "Watanabe", "Azure","WebApp"];
         this._matrixLength = 8;
         this._particleList = [];
         this._wordIndex = 0;
